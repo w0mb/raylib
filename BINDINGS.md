@@ -17,7 +17,7 @@ Some people ported raylib to other languages in form of bindings or wrappers to 
 | ray-cyber          | 4.5     | [Cyber](https://cyberscript.dev)  | MIT | https://github.com/fubark/ray-cyber |
 | raylib-c3          | **4.5** | [C3](https://c3-lang.org/)           | Zlib | https://github.com/Its-Kenta/Raylib-C3 |
 | dart-raylib        | 4.0     | [Dart](https://dart.dev/)               | MIT | https://gitlab.com/wolfenrain/dart-raylib   |
-| bindbc-raylib3     | 4.0     | [D](https://dlang.org/)              | BSL-1.0 | https://github.com/o3o/bindbc-raylib3     |
+| bindbc-raylib3     | **4.5**     | [D](https://dlang.org/)              | BSL-1.0 | https://github.com/o3o/bindbc-raylib3     |
 | dray               | 4.2     | [D](https://dlang.org/)              | Apache-2.0 | https://github.com/redthing1/dray          |
 | raylib-d           | **4.5** | [D](https://dlang.org/)              | Zlib | https://github.com/schveiguy/raylib-d        |
 | dlang_raylib       | 4.0     | [D](https://dlang.org)                  | MPL-2.0 |https://github.com/rc-05/dlang_raylib          |
@@ -59,6 +59,7 @@ Some people ported raylib to other languages in form of bindings or wrappers to 
 | raylib-php         | 3.5     | [PHP](https://en.wikipedia.org/wiki/PHP) | Zlib | https://github.com/joseph-montanez/raylib-php   |
 | raylib-phpcpp      | 3.5     | [PHP](https://en.wikipedia.org/wiki/PHP) | Zlib | https://github.com/oraoto/raylib-phpcpp         |
 | raylibr            | 4.0     | [R](https://www.r-project.org)       | MIT | https://github.com/jeroenjanssens/raylibr         |
+| raylib-ffi          | 4.5     | [Rust](https://www.rust-lang.org/)   | GPLv3 | https://github.com/ewpratten/raylib-ffi        |
 | raylib-rs          | 3.5     | [Rust](https://www.rust-lang.org/)   | Zlib | https://github.com/deltaphc/raylib-rs        |
 | Relib              | 3.5     | [ReCT](https://github.com/RedCubeDev-ByteSpace/ReCT) | ?   | https://github.com/RedCubeDev-ByteSpace/Relib |
 | racket-raylib      | 4.0     | [Racket](https://racket-lang.org/) | MIT/Apache-2.0 | https://github.com/eutro/racket-raylib |
